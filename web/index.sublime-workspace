@@ -1,0 +1,1340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"lo",
+				"login_model"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"h_",
+				"h_menu"
+			],
+			[
+				"pagina",
+				"pagination"
+			],
+			[
+				"is",
+				"is_int"
+			],
+			[
+				"Cate",
+				"categoryName"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"f",
+				"foto_tag_preview"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"fe",
+				"fetch_assoc"
+			],
+			[
+				"mysqli_fetch",
+				"mysqli_fetch_array"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"user_",
+				"user_login"
+			],
+			[
+				"S",
+				"_SESSION"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"filt",
+				"filter_var"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"submit",
+				"submit_login"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"л",
+				"логін"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/OpenServer/domains/newsite/frontend/views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 7976,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Програмування/PHP/Yii/Правила валидации",
+			"settings":
+			{
+				"buffer_size": 631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Правила валидации"
+			}
+		},
+		{
+			"file": "/E/Установки/Microsoft Office 2016 Pro Plus + Visio Professional + Project Professional VL x86 RePack by SPecialiST V16.1/ОПИСАНИЕ.TXT",
+			"settings":
+			{
+				"buffer_size": 4751,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Програмування/PHP/Yii/Как сделать загрузку картинок(файлов) на сервер",
+			"settings":
+			{
+				"buffer_size": 2063,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "Как сделать загрузку картинок(файлов) на сервер и"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/yii/controllers/ProductController.php",
+			"settings":
+			{
+				"buffer_size": 743,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/westham/Desktop/Робочий стіл/Виключення через деякий час.txt",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/begin/views/site/index.php",
+			"settings":
+			{
+				"buffer_size": 17810,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/begin/views/site/about.php",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/begin/views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 8455,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Програмування/CSS/CSS.txt",
+			"settings":
+			{
+				"buffer_size": 489,
+				"encoding": "Western (Windows 1252)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Програмування/PHP/Як встановити Zend Framework 2.txt",
+			"settings":
+			{
+				"buffer_size": 118,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Програмування/PHP/Yii/Валидация.txt",
+			"settings":
+			{
+				"buffer_size": 96,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 37407,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/newsite/frontend/views/site/index.php",
+			"settings":
+			{
+				"buffer_size": 6163,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/westham/YandexDisk/Програмування/Відновлення/newsite/frontend/views/site/login.php",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/yii/views/user/login.php",
+			"settings":
+			{
+				"buffer_size": 1167,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/westham/YandexDisk/Програмування/Відновлення/newsite/frontend/controllers/SiteController.php",
+			"settings":
+			{
+				"buffer_size": 5275,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/yii/views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 8145,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/westham/YandexDisk/Програмування/Відновлення/newsite/frontend/views/layouts/main.php",
+			"settings":
+			{
+				"buffer_size": 2219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/D/OpenServer/domains/newsite/frontend/web/css/site.css",
+			"file_size": 0,
+			"file_write_time": 131345144929555047,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/newsite/vendor/bower/bootstrap/less/scaffolding.less",
+			"settings":
+			{
+				"buffer_size": 2942,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/OpenServer/domains/newsite/frontend/views/user/login.php",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Програмування/Java/Полезное/php/Константи.txt",
+		"/C/Users/westham/Downloads/aktsionerne_finansuvannya.txt",
+		"/D/Програмування/PHP/Yii/Как поменять layout для админки",
+		"/D/OpenServer/domains/newsite/frontend/views/layouts/main (2).php",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/web/UrlManager.php",
+		"/D/OpenServer/domains/newsite/frontend/views/layouts/main.php",
+		"/D/OpenServer/domains/yii/views/layouts/main.php",
+		"/D/OpenServer/domains/yii/web/css/style.css",
+		"/D/OpenServer/domains/yii/modules/admin/views/product/view.php",
+		"/D/OpenServer/domains/yii/web/.htaccess",
+		"/D/OpenServer/domains/newsite/frontend/controllers/SiteController.php",
+		"/D/OpenServer/domains/newsite/vendor/codeception/base/src/Codeception/Module/Db.php",
+		"/D/OpenServer/domains/newsite/frontend/controllers/SiteController (2).php",
+		"/D/OpenServer/domains/yii/views/site/login.php",
+		"/D/OpenServer/domains/yii/views/site/index.php",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/widgets/ActiveForm.php",
+		"/D/OpenServer/domains/yii/controllers/SiteController.php",
+		"/D/OpenServer/domains/yii/controllers/CatalogController.php",
+		"/D/OpenServer/domains/yii/models/Category.php",
+		"/D/OpenServer/domains/yii/models/Product.php",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/db/ActiveRecord.php",
+		"/D/Програмування/Скрипты/Шаблон интернет-магазина/details.html",
+		"/D/OpenServer/domains/yii/views/user/regcomplete.php",
+		"/D/OpenServer/domains/yii/models/Login.php",
+		"/D/OpenServer/domains/yii/views/user/login.php",
+		"/D/OpenServer/domains/yii/models/Signup.php",
+		"/D/OpenServer/domains/yii/models/Reg.php",
+		"/D/OpenServer/domains/yii/controllers/UserController.php",
+		"/C/Users/westham/Desktop/yii/backend/web/css/site.css",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/grid/ActionColumn.php",
+		"/D/OpenServer/domains/yii/views/user/index.php",
+		"/D/OpenServer/domains/yii/views/user/reg.php",
+		"/D/OpenServer/domains/yii/views/user/test.php",
+		"/D/OpenServer/domains/yii/views/product/index.php",
+		"/D/OpenServer/domains/yii/modules/admin/views/product/index.php",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/grid/SerialColumn.php",
+		"/D/OpenServer/domains/yii/controllers/ProductController.php",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/grid/GridView.php",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/widgets/BaseListView.php",
+		"/D/OpenServer/domains/yii/models/User.php",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.818/main.php",
+		"/E/Установки/PhpStorm 2016.2.1 WIN/Read Me FIRST.txt",
+		"/D/OpenServer/domains/yii/models/LoginForm.php",
+		"/D/OpenServer/domains/yii/models/RegForm.php",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/base/Model.php",
+		"/D/OpenServer/domains/yii/models/Users.php",
+		"/D/Програмування/Скрипты/Форма1/css/style.css",
+		"/D/Програмування/Скрипты/Форма2/css/style.css",
+		"/D/OpenServer/domains/yii/web/css/bootstrap.min.css",
+		"/D/OpenServer/domains/yii/web/css/main.css",
+		"/D/OpenServer/domains/yii/web/css/owl.carousel.css",
+		"/D/OpenServer/domains/yii/web/css/productviewgallery.css",
+		"/D/OpenServer/domains/yii/web/css/site.css",
+		"/D/OpenServer/domains/yii/web/css/slider.css",
+		"/D/OpenServer/domains/yii/views/product/index (2).php",
+		"/D/Програмування/Скрипты/Форма2/index.html",
+		"/D/OpenServer/domains/yii/views/product/view.php",
+		"/D/OpenServer/domains/yii/views/site/reg.php",
+		"/D/OpenServer/domains/yii/models/Form.php",
+		"/D/openserver/userdata/temp/Rar$DIa0.265/style.css",
+		"/D/openserver/userdata/temp/Rar$EXa0.438/index.html",
+		"/D/Програмування/Скрипты/Форма1/index.html",
+		"/D/OpenServer/domains/yii/web/index.sublime-project",
+		"/D/Програмування/Скрипты/Backcup/yii/web/css/site.css",
+		"/D/OpenServer/domains/yii/web/css/pagination.css",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/data/Pagination.php",
+		"/D/Програмування/Скрипты/Backcup/westham/views/catalog/index.php",
+		"/D/xampp/htdocs/yii/views/site/index.php",
+		"/D/xampp/htdocs/yii/views/catalog/index.php",
+		"/D/xampp/htdocs/yii/views/layouts/main.php",
+		"/D/OpenServer/domains/yii/web/index.php",
+		"/C/Users/westham/Desktop/Новый текстовый документ (2).txt",
+		"/D/Програмування/PHP/Yii/Ошибка, падение стилей при переходе на ЧПУ.txt",
+		"/D/xampp/htdocs/yii/config/db.php",
+		"/D/xampp/htdocs/yii/controllers/CatalogController.php",
+		"/D/xampp/htdocs/yii/views/catalog/catalog.php",
+		"/D/OpenServer/domains/yii/views/catalog/catalog.php",
+		"/D/OpenServer/domains/westham/controllers/CatalogController.php",
+		"/D/OpenServer/domains/yii/views/catalog/index.php",
+		"/D/Програмування/PHP/Yii/Как убрать index.php из адреса ЧПУ yyi 2",
+		"/D/OpenServer/domains/yii/vendor/yiisoft/yii2/web/UrlRule.php",
+		"/D/OpenServer/domains/yii/views/site/index(demo).php",
+		"/D/OpenServer/domains/yii/config/db.php",
+		"/D/OpenServer/domains/yii/views/layouts/footer.php",
+		"/D/OpenServer/domains/yii/views/layouts/header.php",
+		"/C/Users/westham/Links/yii.lnk",
+		"/D/OpenServer/domains/yii/basic/config/web.php",
+		"/D/OpenServer/domains/yii/config/web.php",
+		"/C/Users/westham/YandexDisk/Програмування/Як встановити Yii 2.txt",
+		"/C/Users/westham/AppData/Local/Temp/Rar$EXa0.246/index.html",
+		"/C/Users/westham/Desktop/Новый текстовый документ.txt",
+		"/D/xampp/htdocs/zf2/config/application.config.php",
+		"/D/xampp/htdocs/zf2/vendor/doctrine/doctrine-orm-module/src/DoctrineORMModule/Paginator/Adapter/DoctrinePaginator.php",
+		"/D/xampp/htdocs/zf2/vendor/zendframework/zend-developer-tools/config/module.config.php",
+		"/C/Users/westham/Desktop/Хостинг.txt",
+		"/C/Users/westham/YandexDisk/Америка.txt",
+		"/E/!!!.txt",
+		"/C/OpenServer/domains/westham/views/site/index.php",
+		"/D/xampp/htdocs/dashboard/index.html",
+		"/D/xampp/htdocs/zf2/public/index.php",
+		"/C/Users/westham/Desktop/demo2.html",
+		"/C/Users/westham/Desktop/Товари/!.txt",
+		"/C/Users/westham/Desktop/Товари/!!.txt",
+		"/C/Users/westham/Desktop/Вимоги.txt",
+		"/D/Програмування/PHP/Як встановити Zend Framework 2.txt",
+		"/C/OpenServer/domains/westham/index.php",
+		"/C/Users/westham/Desktop/shutdown s t 60.txt",
+		"/C/OpenServer/domains/laravel/composer-setup.php",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.865/style.css",
+		"/C/Users/westham/Desktop/Pagination.php",
+		"/C/OpenServer/domains/westham/template/css/style.css",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.585/style.css",
+		"/C/OpenServer/domains/westham/controllers/CatalogController.php",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.082/style.css",
+		"/C/Users/westham/AppData/Local/Temp/Rar$EXa0.215/pagenavi/demo2.html",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.641/style.css",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.394/readme.txt",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.747/bootstrap.min.css",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.844/font-awesome.min.css",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.983/prettyPhoto.css",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.516/price-range.css",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.361/animate.css",
+		"/C/OpenServer/domains/westham/controllers/ProductController.php",
+		"/C/OpenServer/domains/westham/components/Db.php",
+		"/D/Програмування/Скрипты/Шаблон интернет-магазина/sale.html",
+		"/D/Програмування/Скрипты/Шаблон интернет-магазина/index.html",
+		"/C/OpenServer/domains/westham/components/Pagination.php",
+		"/C/Users/westham/AppData/Local/Temp/Rar$DIa0.345/Product.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"control-label",
+			"breadcrumbs",
+			"submit",
+			"<a href=\"details.html\"",
+			"da-link\">shop now</a>",
+			"cs-fancybox-thumbs",
+			"product/<?=$productItem['name']; ?>",
+			"/images/product/1.jpg",
+			"/template/images/",
+			"src=\"/template/js",
+			"href=\"/template/css",
+			"username",
+			"submit",
+			"form-group",
+			"#login-form input",
+			"h_menu",
+			".pag",
+			"pag",
+			"pagination",
+			"->\n",
+			"\"/web/images",
+			"src=\"/web/js",
+			"href=\"/web/css",
+			"src=\"/web/images",
+			"src=\"/web/js",
+			"href=\"/web/css",
+			"src=\"/template/images",
+			"src=\"/template/js",
+			"href=\"/template/css",
+			"src=\"/template/js",
+			"href=\"/template/css",
+			"src=\"/template/js",
+			"src=\"/template/images",
+			"src=\"/template/js",
+			"href=\"/template/css",
+			"pagination",
+			"paginatio",
+			"pagination",
+			"shop-menu pull-right",
+			"col-sm-8",
+			"featured products",
+			"images/",
+			"js/",
+			"0001-2.jpg",
+			"0001-4.jpg",
+			"000-3",
+			"images/",
+			"js/",
+			"css/",
+			"template/css",
+			"href=\"images",
+			"href=\"css",
+			"\"images",
+			"src=\"js",
+			"err",
+			"echo",
+			"?>\n",
+			"гість",
+			"nfl",
+			"cntr",
+			"form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"/catalog\"",
+			"da-link\">Купити зараз</a>",
+			"product/<?=$productItem['image']; ?>",
+			"/images/product/<?=$productItem['name']; ?>",
+			"/images/",
+			"src=\"/js",
+			"href=\"/css",
+			"input",
+			".pagination",
+			"\"/images",
+			"src=\"/js",
+			"href=\"/css",
+			"src=\"/images",
+			"src=\"/js",
+			"href=\"/css",
+			"src=\"/web/images",
+			"src=\"/web/js",
+			"href=\"/web/css",
+			"src=\"/web/js",
+			"href=\"/web/css",
+			"src=\"/web/js",
+			"src=\"/web/images",
+			"src=\"/web/js",
+			"href=\"/web/css",
+			"Популярні товари",
+			"/template/images/",
+			"/template/js/",
+			"0001-1.jpg",
+			"c2.jpg",
+			"/template/images/",
+			"/template/js/",
+			"/template/css/",
+			"/template/css",
+			"href=\"template/images",
+			"href=\"template/css",
+			"\"template/images",
+			"src=\"template/js"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/OpenServer/domains/newsite/frontend/views/layouts/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3819.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/Програмування/PHP/Yii/Правила валидации",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								631,
+								631
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Правила валидации",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Установки/Microsoft Office 2016 Pro Plus + Visio Professional + Project Professional VL x86 RePack by SPecialiST V16.1/ОПИСАНИЕ.TXT",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1026.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Програмування/PHP/Yii/Как сделать загрузку картинок(файлов) на сервер",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1544,
+								1544
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Как сделать загрузку картинок(файлов) на сервер и",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/OpenServer/domains/yii/controllers/ProductController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/westham/Desktop/Робочий стіл/Виключення через деякий час.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/OpenServer/domains/begin/views/site/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17810,
+								17810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/OpenServer/domains/begin/views/site/about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/OpenServer/domains/begin/views/layouts/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8455,
+								8387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 437.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/Програмування/CSS/CSS.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/D/Програмування/PHP/Як встановити Zend Framework 2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/Програмування/PHP/Yii/Валидация.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								44,
+								44
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37407,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 33345.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/D/OpenServer/domains/newsite/frontend/views/site/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1279.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/westham/YandexDisk/Програмування/Відновлення/newsite/frontend/views/site/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/D/OpenServer/domains/yii/views/user/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/Users/westham/YandexDisk/Програмування/Відновлення/newsite/frontend/controllers/SiteController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2003,
+								2003
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1596.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/D/OpenServer/domains/yii/views/layouts/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/C/Users/westham/YandexDisk/Програмування/Відновлення/newsite/frontend/views/layouts/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2218,
+								2151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1062.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/D/OpenServer/domains/newsite/frontend/web/css/site.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/D/OpenServer/domains/newsite/vendor/bower/bootstrap/less/scaffolding.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/D/OpenServer/domains/newsite/frontend/views/user/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\OpenServer\\domains\\yii\\views\\site\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
